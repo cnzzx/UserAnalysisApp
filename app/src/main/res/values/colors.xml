@@ -8,4 +8,8 @@
     <color name="black">#000000</color>
     <color name="dividing">#cccccc</color>
     <color name="bg_gray">#F5F5F5</color>
+    <color name="reportTextColor">#5A3900</color>
+    <color name="causeBoardColor">#000000</color>
+    <color name="causeTextColor">#ffffff</color>
+    <color name="emotionTextColor">#00353E</color>
 </resources>

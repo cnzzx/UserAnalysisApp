@@ -8,4 +8,13 @@
 
     <include layout="@layout/titlebar"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/report_button"
+        android:background="@color/theme"
+        android:textAllCaps="false"
+        android:text="Report"
+        android:layout_marginTop="50dp"/>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

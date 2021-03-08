@@ -17,6 +17,7 @@ import android.widget.Button;
 import com.ashokvarma.bottomnavigation.BottomNavigationBar;
 import com.ashokvarma.bottomnavigation.BottomNavigationItem;
 import com.example.useranalysisapp.activity.BindingActivity;
+import com.example.useranalysisapp.activity.ReportActivity;
 import com.example.useranalysisapp.fragment.FragmentHome;
 import com.example.useranalysisapp.fragment.FragmentMine;
 import com.example.useranalysisapp.receiver.SmsReceiver;
